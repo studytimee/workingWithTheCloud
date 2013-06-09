@@ -1,5 +1,5 @@
 
-exports.keyid  = 'YOUR_AWS_KEY_ID'
+exports.keyid  = 'AKIAJXT3QPYITZ3BQS4A'
 exports.secret = '6fTE76NVF+3gBpZqT+/ZW+G9/GnPFR6NUUwGnquS'
 
 exports.twitter  = { keyid:'YOUR_TWITTER_KEY_ID', secret:'YOUR_TWITTER_SECRET' }
